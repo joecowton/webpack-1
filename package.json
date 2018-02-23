@@ -1,0 +1,26 @@
+{
+	"name": "webpack-1",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "webpack"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/joecowton/webpack-1.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/joecowton/webpack-1/issues"
+	},
+	"homepage": "https://github.com/joecowton/webpack-1#readme",
+	"dependencies": {
+		"babel-core": "^6.26.0",
+		"babel-loader": "^7.1.2",
+		"babel-preset-env": "^1.6.1",
+		"webpack": "^2.2.0-rc.0"
+	}
+}
